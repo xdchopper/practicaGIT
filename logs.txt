@@ -1,0 +1,29 @@
+commit d511f1eb068ce15cb15995c0965b5517bdf02d10
+Author: Eduardo <cuecho_14@hotmail.com>
+Date:   Tue Mar 8 10:15:40 2016 -0700
+
+    Conclusiones
+
+commit dc752a9a6cadb918ae084297f20d74af5aee8a13
+Author: Eduardo <cuecho_14@hotmail.com>
+Date:   Mon Mar 7 11:02:49 2016 -0700
+
+    Requisitos no funcionales
+
+commit 3fe3a3526666417cf058cc5217f6c4cb0c113d33
+Author: Eduardo <cuecho_14@hotmail.com>
+Date:   Mon Mar 7 10:59:20 2016 -0700
+
+    Requisitos funcionales
+
+commit 55aab3407ebf1133b3838592aa975fc398809039
+Author: Eduardo <cuecho_14@hotmail.com>
+Date:   Mon Mar 7 10:56:22 2016 -0700
+
+    Titulo y descripcion del proyecto
+
+commit 18a84c48099e18a4a40fd881315a892b3f1eb5f5
+Author: Eduardo <cuecho_14@hotmail.com>
+Date:   Mon Mar 7 10:52:38 2016 -0700
+
+    Proyecto en blanco
