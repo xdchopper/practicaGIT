@@ -25,3 +25,11 @@ Informacion de la RAMA prueba
 ____________________________________________________
 
 Esta es una nueva rama del proyecto
+
+
+
+Otro commit de la prueba
+
+____________________________________________________
+Este commit solo se muestra en la rama prueba,
+posteriormente los vamos a fusionar con la rama mastar
